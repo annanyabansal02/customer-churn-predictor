@@ -7,7 +7,7 @@ Customer churn is one of the biggest challenges in retail and telecom.
 This app helps businesses identify at-risk customers before they leave.
 
 ## 🚀 Live Demo
-[Click here to try the app](#) ← we'll update this link after deployment
+[Click here to try the app](https://customer-churn-predictor-demo.streamlit.app/)
 
 ## 💡 Features
 - Predicts churn probability in real time
